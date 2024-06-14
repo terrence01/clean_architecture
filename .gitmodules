@@ -1,0 +1,27 @@
+[submodule "source/awesome-go-education"]
+	path = source/awesome-go-education
+	url = git@github.com:mehdihadeli/awesome-go-education.git
+[submodule "source/Domain-Driven-Design-with-GoLang"]
+	path = source/Domain-Driven-Design-with-GoLang
+	url = git@github.com:PacktPublishing/Domain-Driven-Design-with-GoLang.git
+[submodule "source/go-clean-template"]
+	path = source/go-clean-template
+	url = git@github.com:evrone/go-clean-template.git
+[submodule "source/go-project-ddd-template"]
+	path = source/go-project-ddd-template
+	url = git@github.com:sesigl/go-project-ddd-template.git
+[submodule "source/go-ddd"]
+	path = source/go-ddd
+	url = git@github.com:sklinkert/go-ddd.git
+[submodule "source/wild-workouts-go-ddd-example"]
+	path = source/wild-workouts-go-ddd-example
+	url = git@github.com:ThreeDotsLabs/wild-workouts-go-ddd-example.git
+[submodule "source/awesome-go-education2"]
+	path = source/awesome-go-education2
+	url = git@github.com:mehdihadeli/awesome-go-education.git
+[submodule "source/go-clean-arch"]
+	path = source/go-clean-arch
+	url = git@github.com:bxcodec/go-clean-arch.git
+[submodule "source/goddd"]
+	path = source/goddd
+	url = git@github.com:marcusolsson/goddd.git
