@@ -16,3 +16,5 @@ git submodule add git@github.com:bxcodec/go-clean-arch.git source/go-clean-arch
 # 8.8k start
 git submodule add git@github.com:marcusolsson/goddd.git source/goddd
 # 2.4k start
+git submodule add git@github.com:ThreeDotsLabs/wild-workouts-go-ddd-example.git source/wild-workouts-go-ddd-example
+# 5.4k start
